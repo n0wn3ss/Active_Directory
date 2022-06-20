@@ -1,5 +1,4 @@
-# Active_Directory
-ActiveDirectory_cheatsheet
+# Active_Directory cheatsheet
 
 This ActiveDirecotry Cheatsheet
 
